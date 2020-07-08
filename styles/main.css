@@ -1,0 +1,101 @@
+h1{
+  font-size: 2.5rem;
+  padding-top: 60px;
+  margin-top: 0px;
+  text-transform: uppercase;
+
+}
+
+h2{
+  font-size: 1.5rem;
+  margin-top: 30px;
+  text-transform: uppercase;
+}
+
+p{
+  font-size: 1.2rem;
+  padding-right: 120px;
+
+}
+
+
+li{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 1.2rem;
+}
+
+a:hover{
+  color: rgb(123, 197, 5);
+}
+
+body{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  max-width: 1200px;
+  margin: 0 auto;
+  line-height: 25px;
+  background-image: url(../images/red_abbey.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: rgb(250, 250, 250);
+  
+
+}
+main{
+  margin: 0, auto;
+  padding: 60px;
+  background-color: rgba(0,0,0,0.5);
+}
+
+figure{
+  margin-top: 60px;
+  margin-bottom: 30px;
+  margin-left: 0px;
+  margin-right: auto;
+}
+
+caption{
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+  margin-top: 40px;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+th{
+  text-align:left ;
+  padding-right: 30px;
+}
+td{
+  padding-right: 30px;
+  padding-top: 12px;
+}
+
+input{
+  padding: 5px;
+  margin-left: 25px;
+  border: none;
+  background-color: rgb(225, 192, 155);
+
+}
+
+fieldset{
+  width: 350px;
+  font-size: 1.2rem;
+  padding-bottom: 20px;
+}
+
+textarea{
+  background-color: rgb(235, 192, 155);
+  border: none;
+}
+
+button{
+  padding: 10px;
+  font-weight: bold;
+  font-size: 1.2rem;
+  background-color: rgb(224, 86, 22);
+}
+
+button:hover{
+  background-color: rgb(117, 41, 90);
+}
